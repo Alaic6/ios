@@ -1,2 +1,0 @@
-# ios
-# My iOS APP
